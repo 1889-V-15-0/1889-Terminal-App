@@ -39,7 +39,9 @@ pip install psutil
 ```
 pip install tqdm
 ```
-
+```
+pip install beautifulsoup4
+```
 
 
 ## FEATURES 
@@ -51,7 +53,8 @@ Coming Soon
 Coming Soon
 
 ### FOR 1889 STALKER CLASS
-Coming Soon
+
+##[X] Web Copier
 
 
 ## ✠ CONTACT US 
