@@ -54,7 +54,7 @@ Coming Soon
 
 ### FOR 1889 STALKER CLASS
 
-- [x] ##Web Copier
+- [x] Web Copier / This feature can copy websites. ( Level 1 Tool )
 
 
 ## ✠ CONTACT US 
