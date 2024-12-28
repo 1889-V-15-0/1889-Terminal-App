@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/c6702cd7-8638-44ad-aff9-a7b93202c308)
+![1889](https://github.com/user-attachments/assets/443d51fa-4db7-49ef-a643-276275777ee6)
 
 
 
@@ -47,9 +47,11 @@ pip install beautifulsoup4
 ## FEATURES 
 
 ### FOR SECURITY
-Coming Soon
+
+- [x] Phishing Link Dedector / Will improve in future versions.
 
 ### FOR 1889 HACKER CLASS 
+
 Coming Soon
 
 ### FOR 1889 STALKER CLASS
