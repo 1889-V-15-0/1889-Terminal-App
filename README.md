@@ -54,7 +54,7 @@ Coming Soon
 
 ### FOR 1889 STALKER CLASS
 
-##[X] Web Copier
+[X] - Web Copier
 
 
 ## ✠ CONTACT US 
