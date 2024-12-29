@@ -24,23 +24,11 @@ apt upgrade
 ```
 
 
-
 #### STEP ( REQUIRED LIBRARIES )
 
+Use it while inside the '1889 - v1.6.0' folder
 ```
-pip install rich
-```
-```
-pip install requests
-```
-```
-pip install psutil
-```
-```
-pip install tqdm
-```
-```
-pip install beautifulsoup4
+pip install -r requirements.txt
 ```
 
 
@@ -57,7 +45,7 @@ Coming Soon
 
 ### FOR 1889 STALKER CLASS
 
-- [x] Web Copier / This feature can copy websites. ( Level 1 Tool )
+- [x] Web Copier               | Completed ( Like a Level 1 tool )
 
 
 ## ✠ CONTACT US 
