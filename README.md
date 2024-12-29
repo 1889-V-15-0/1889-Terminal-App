@@ -36,8 +36,8 @@ pip install -r requirements.txt
 
 ### FOR SECURITY
 
-- [x] Phishing Link Dedector   | Will improve in future versions.
-- [x] DDoS Dedector            | Completed
+- [x] Phishing Link Dedector | Will improve in future versions.
+- [x] DDoS Dedector 
 
 ### FOR 1889 HACKER CLASS 
 
@@ -45,7 +45,7 @@ Coming Soon
 
 ### FOR 1889 STALKER CLASS
 
-- [x] Web Copier               | Completed ( Like a Level 1 tool )
+- [x] Web Copier | Will improve in future versions.
 
 
 ## ✠ CONTACT US 
