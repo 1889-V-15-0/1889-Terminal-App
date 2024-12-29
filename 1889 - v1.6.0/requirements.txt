@@ -1,0 +1,6 @@
+rich
+requests
+psutil
+tqdm
+beautifulsoup4
+scapy
