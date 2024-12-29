@@ -48,7 +48,8 @@ pip install beautifulsoup4
 
 ### FOR SECURITY
 
-- [x] Phishing Link Dedector / Will improve in future versions.
+- [x] Phishing Link Dedector   | Will improve in future versions.
+- [x] DDoS Dedector            | Completed
 
 ### FOR 1889 HACKER CLASS 
 
