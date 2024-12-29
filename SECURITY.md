@@ -10,7 +10,7 @@
 
 | VERSION | SUPPORTED          | EXECUTE          |
 | ------- | ------------------ | ---------------- |
-| v1.5.0  | :white_check_mark: | NetHunter Vinnie |
+| v1.6.0  | :white_check_mark: | NetHunter Vinnie |
 
 
 
