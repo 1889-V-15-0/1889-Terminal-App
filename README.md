@@ -1,5 +1,4 @@
-![1889](https://github.com/user-attachments/assets/443d51fa-4db7-49ef-a643-276275777ee6)
-
+![1889IENA](https://github.com/user-attachments/assets/1bb97664-505e-4df8-b4f4-076e58c08e4d)
 
 
 # 1889 TERMİNAL APP
