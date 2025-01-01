@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ## FEATURES 
 
-### FOR SECURITY
+### FOR 1889 SECURITY CLASS
 
 - [x] Phishing Link Dedector | Will improve in future versions.
 - [x] DDoS Dedector 
