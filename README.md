@@ -1,5 +1,4 @@
-![1889IENA](https://github.com/user-attachments/assets/1bb97664-505e-4df8-b4f4-076e58c08e4d)
-
+![THM_1889_17](https://github.com/user-attachments/assets/d6399db4-ec3a-4eb5-a165-a4b81ddc52ce)
 
 # 1889 TERMİNAL APP
 
@@ -35,8 +34,8 @@ pip install -r requirements.txt
 
 ### FOR 1889 SECURITY CLASS
 
-- [x] Phishing Link Dedector | Will improve in future versions.
-- [x] DDoS Dedector 
+- [x] Phishing Link Dedector
+- [x] DDoS Dedector  
 
 ### FOR 1889 HACKER CLASS 
 
@@ -45,6 +44,7 @@ Coming Soon
 ### FOR 1889 STALKER CLASS
 
 - [x] Web Copier | Will improve in future versions.
+- [ ] Social Media Dumper | Coming Soon
 
 
 ## ✠ CONTACT US 
