@@ -11,7 +11,7 @@
 
 #### STEP ( FOR TERMUX )
 
-## This tool only works on rooted devices in the termux.
+#### This tool only works on Rooted devices in the Termux.
 
 ```
 termux-setup-storage
@@ -26,7 +26,7 @@ apt upgrade
 
 #### STEP ( REQUIRED LIBRARIES )
 
-Use it while inside the '1889 - v1.6.0' folder
+Use it while inside the '1889 - v1.7.0' folder
 ```
 pip install -r requirements.txt
 ```
@@ -46,7 +46,6 @@ Coming Soon
 ### FOR 1889 STALKER CLASS
 
 - [x] Web Copier | Will improve in future versions.
-- [ ] Social Media Dumper | Coming Soon
 
 
 ## ✠ CONTACT US 
