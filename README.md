@@ -11,6 +11,8 @@
 
 #### STEP ( FOR TERMUX )
 
+## This tool only works on rooted devices in the termux.
+
 ```
 termux-setup-storage
 ```
