@@ -2,6 +2,7 @@ import os
 import time
 import sys
 import collections
+from scapy.config import conf
 from scapy.all import sniff, TCP, UDP, ICMP
 from rich.console import Console
 from rich.table import Table
@@ -9,6 +10,8 @@ from tqdm import tqdm
 from SECURITYCLASS import Option_S1
 from SECURITYCLASS.DDOS_DEDECTOR import Ddos_Dedector
 
+
+conf.use_pcap = True
 console = Console()
 
 REQUEST_THRESHOLD = 100
