@@ -1,3 +1,8 @@
+
+![THM_1889_17](https://github.com/user-attachments/assets/e20d753e-cee1-47d1-9462-e2b9a48d760c)
+
+
+
 # 1889 TERMİNAL APP
 
 
@@ -12,6 +17,15 @@
 | ------- | ------------------ | ---------------- |
 | v1.7.0  | :white_check_mark: | NetHunter Vinnie |
 
+
+
+## SUPPORTED SYSTEMS
+
+| SYSTEM  | NEEDS              | SUPPORTED          |
+| ------- | ------------------ | ------------------ |
+| TERMUX  | Root               | Not Tested         | 
+| WINDOWS | x                  | :white_check_mark: |
+| LINUX   | x                  | :white_check_mark: |
 
 
 ##  REPORT SEND
