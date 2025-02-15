@@ -10,27 +10,6 @@
 # TUTORİAL
 
 
-#### STEP ( FOR TERMUX )
-
-
-#### This tool only works on Rooted devices in the Termux.
-
-
-```
-termux-setup-storage
-```
-
-
-```
-apt update
-```
-
-
-```
-apt upgrade
-```
-
-
 #### STEP 1 ( NEED DOWNLOADS )
 
 
