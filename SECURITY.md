@@ -20,7 +20,7 @@
 
 | SYSTEM  | NEEDS              | SUPPORTED          |
 | ------- | ------------------ | ------------------ |
-| TERMUX  | Root               | Not Tested         | 
+| TERMUX  |                    | No More Support    | 
 | WINDOWS | x                  | :white_check_mark: |
 | LINUX   | x                  | :white_check_mark: |
 
