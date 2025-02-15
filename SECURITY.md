@@ -1,4 +1,4 @@
-![THM_1889_17](https://github.com/user-attachments/assets/e20d753e-cee1-47d1-9462-e2b9a48d760c)
+![THM_1889_18](https://github.com/user-attachments/assets/96460f2a-8fa9-415d-973b-d25ef781c6b6)
 
 # 1889 TERMİNAL APP
 
@@ -12,7 +12,7 @@
 
 | VERSION | SUPPORTED          | EXECUTE          |
 | ------- | ------------------ | ---------------- |
-| v1.7.0  | :white_check_mark: | NetHunter Vinnie |
+| v1.8.0  | :white_check_mark: | NetHunter Vinnie |
 
 
 
