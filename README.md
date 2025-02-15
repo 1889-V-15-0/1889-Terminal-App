@@ -1,4 +1,4 @@
-![THM_1889_17](https://github.com/user-attachments/assets/d6399db4-ec3a-4eb5-a165-a4b81ddc52ce)
+![THM_1889_18](https://github.com/user-attachments/assets/96460f2a-8fa9-415d-973b-d25ef781c6b6)
 
 
 # 1889 TERMİNAL APP
